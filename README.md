@@ -1,5 +1,5 @@
 # hello-world
-Learning to using GitHub
+Learning to use GitHub
 
 What's up everybody!
 
